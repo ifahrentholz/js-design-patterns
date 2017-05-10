@@ -11,6 +11,7 @@ At the moment this should just be a "bookmark" repo for myself but if you want t
 - module
 - factory
 - singleton
+- decorator / subObjects
 
 
 ## LICENSE
